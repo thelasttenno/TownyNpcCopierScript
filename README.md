@@ -1,6 +1,6 @@
 # TownyNpcCopierScript
 - Copy Npcs files for npc residents for towns.
-- #has memoery of total mpcs made or manual input
+- has memoery of total mpcs made or manual input
 - input town names
 - total npcs wanted
 
